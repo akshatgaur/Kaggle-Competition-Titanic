@@ -1,0 +1,8 @@
+ResultsIteration 1: BaselineKNNAccuracy: 0.626794258373Confusion Matrix[[241  19] [137  21]]Precision Score: 0.595017214754Recall Score: 0.626794258373Misclassification rate: 0.373205741627F1 score: 0.550099243549Random ForestAccuracy: 0.763157894737
+Confusion Matrix
+[[211  49]
+ [ 50 108]]
+Precision Score: 0.762869542991
+Recall Score: 0.763157894737
+Misclassification rate:0.236842105263
+F1 score: 0.763009250574Iteration 2: Feature ModellingKNNAccuracy: 0.774641148325Confusion Matrix[[233  27] [ 69  89]]Precision Score: 0.763541248958Recall Score: 0.774641148325Misclassification rate: 0.225358851675F1 score: 0.761862423133Random ForestAccuracy: 0.799043062201Confusion Matrix[[230  30] [ 54 104]]Precision Score: 0.797105851563Recall Score: 0.799043062201Misclassification rate: 0.200956937799F1 score: 0.795217431536
